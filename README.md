@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-component-using-flexbox-OnysNVJv8T](https://www.frontendmentor.io/solutions/qr-component-using-flexbox-OnysNVJv8T)
 
-- Live Site URL: [https://qr-component.matiaslagoevia.com](https://qr-component.matiaslagoevia.com)
+- Live Site URL: [https://qr-component.matiaslagoevia.me](https://qr-component.matiaslagoevia.me)
 
 ## My process
 
@@ -98,8 +98,8 @@ I see three directions I'd like to grow from here:
 
 ## Author
 
-- Website - [matiaslagoevia.com](https://matiaslagoevia.com)
-- Frontend Mentor - [@matiaslagoevia.com](https://www.frontendmentor.io/profile/matiaslagoevia)
+- Website - [matiaslagoevia.me](https://matiaslagoevia.me)
+- Frontend Mentor - [@matiaslagoevia](https://www.frontendmentor.io/profile/matiaslagoevia)
 
 ## Acknowledgments
 
